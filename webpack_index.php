@@ -8,6 +8,6 @@
     <title>Base Webpack</title>
 </head>
 <body>
-    
+    <h3>IT WORKS!</h3>
 </body>
 </html>
