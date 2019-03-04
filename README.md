@@ -17,6 +17,10 @@
 
     # Adjust styles / javascript as needed
 
+    # Run `npm run watch` to see changes / run scripts, etc.
+
+    # Feel free to delete `webpack_index.php` once satisfied Webpack is running correctly.
+
     # Questions? Suggestions? Connect with me on GitHub
     `https://github.com/irinaheimerle`
     
